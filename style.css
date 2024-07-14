@@ -19,22 +19,22 @@ body {
 #gg {
   font-family: "Open Sans";
   font-size: smaller;
-  text-align: justify;
+  text-align: center;
   padding-left: 1rem;
 }
 
 #ss {
-  font-family: raleway, "sans-serif";
+  font-family: "Open Sans";
   font-weight: bold;
 }
 
 #cs {
-  font-family: Helvetica, sans-serif;
+  font-family: "Open Sans";
   font-weight: lighter;
   color: #f8f415;
 }
 #cd {
-  font-family: Helvetica, sans-serif;
+  font-family: "Open Sans";
   font-weight: lighter;
 }
 
