@@ -1,3 +1,6 @@
-Nama : Armany Rizqullah Saputra
-NRP : 5323600029
-Prodi : 2 D4 Teknologi Rekayasa Multimedia (A)
+Nama : Armany Rizqullah Saputra<br>
+NRP : 5323600029<br>
+Prodi : 2 D4 Teknologi Rekayasa Multimedia (A)<br><br><br>
+
+
+Web Portfolio menggunakan HTML dan CSS
