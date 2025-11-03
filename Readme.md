@@ -5,3 +5,5 @@ Prodi : 2 D4 Teknologi Rekayasa Multimedia (A)<br><br><br>
 Web Portfolio menggunakan HTML dan CSS
 
 Updated 2025
+
+ini sekarang lagi di branch readmi njirr
